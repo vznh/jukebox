@@ -162,19 +162,20 @@ h1, h2, h3, h4, h5, h6, ul, p {
 }
 
 .container {
-  
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 50em;
+  width: 50em; }
 
-  
+html {
+  scroll-behavior: smooth;
 }
 
-
-
-
-
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
