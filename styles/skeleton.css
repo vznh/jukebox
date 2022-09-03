@@ -142,10 +142,12 @@ body.dark-theme {
   body {
     --text-color: #eee;
     --bkg-color: #121212;
+    --logo: url(logowhite.png);
   }
   body.light-theme {
     --text-color: #222;
     --bkg-color: #fff;
+    --logo: url(logo.png);
   }
 }
 * {
