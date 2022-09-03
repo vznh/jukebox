@@ -146,7 +146,7 @@ body.dark-theme {
   }
   body.light-theme {
     --text-color: #222;
-    --bkg-color: #fff;
+    --bkg-color: #f8f2fb;
     --logo: url(logo.png);
   }
 }
