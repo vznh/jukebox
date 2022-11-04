@@ -1,2 +1,2 @@
-# s-box.github.io
-portfolio website
+# S-BOX
+*short for spotify box, of course
